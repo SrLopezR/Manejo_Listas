@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\bin\Debug\net8.0\Productos.exe
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\bin\Debug\net8.0\Productos.deps.json
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\bin\Debug\net8.0\Productos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\bin\Debug\net8.0\Productos.dll
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\bin\Debug\net8.0\Productos.pdb
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\obj\Debug\net8.0\Productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\obj\Debug\net8.0\Productos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\obj\Debug\net8.0\Productos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\obj\Debug\net8.0\Productos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\obj\Debug\net8.0\Productos.sourcelink.json
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\obj\Debug\net8.0\Productos.dll
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\obj\Debug\net8.0\refint\Productos.dll
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\obj\Debug\net8.0\Productos.pdb
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\obj\Debug\net8.0\Productos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Productos\obj\Debug\net8.0\ref\Productos.dll

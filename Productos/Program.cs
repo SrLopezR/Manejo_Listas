@@ -47,7 +47,7 @@ namespace Productos
                     case 2: LeerProductos(); break;
                     case 3: ActualizarProducto(); break;
                     case 4: EliminarProducto(); break;
-                    case 5: BuscarProducto (); break;
+                    case 5: BuscarProducto(); break;
                     case 6: break;
                     default: Console.Clear(); break;
                 }
@@ -66,7 +66,7 @@ namespace Productos
             double precio = double.Parse(Console.ReadLine());
 
             Producto producto = new Producto(nombre, codigo, cantidad, precio);
-            productos.Add(producto);  
+            productos.Add(producto);
 
             Console.WriteLine("Producto agregado exitosamente.");
             Console.WriteLine("Presione cualquier tecla para continuar...");
@@ -137,7 +137,7 @@ namespace Productos
                 Console.Write("Ingrese el nuevo precio: ");
                 producto.Precio = double.Parse(Console.ReadLine());
 
-                productos[index] = producto;  
+                productos[index] = producto;
 
                 Console.WriteLine("El producto fue actualizado con éxito.");
             }
@@ -159,7 +159,7 @@ namespace Productos
 
             if (producto.Nombre != null)
             {
-                
+
                 Console.WriteLine($"\n\tInformacion del producto buscado.\n");
                 Console.WriteLine("──────────────────────────────────────────────────");
                 Console.WriteLine($"Nombre: {producto.Nombre}\nCodigo: {producto.Codigo} \nCantidad: {producto.Cantidad} \nPrecio:{producto.Precio}");
