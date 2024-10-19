@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\UAM\\MyPE\\Listas\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Manejo de Listas\\Manejo_Listas\\Diccionario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45E788CA-FF1A-428C-B8EB-919FB8EED44E}|Listas.csproj|c:\\users\\usuario\\desktop\\uam\\mype\\listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45E788CA-FF1A-428C-B8EB-919FB8EED44E}|Listas.csproj|c:\\users\\usuario\\desktop\\manejo de listas\\manejo_listas\\diccionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45E788CA-FF1A-428C-B8EB-919FB8EED44E}|Listas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UAM\\MyPE\\Listas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Manejo de Listas\\Manejo_Listas\\Diccionario\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UAM\\MyPE\\Listas\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowC0AAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Manejo de Listas\\Manejo_Listas\\Diccionario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T15:08:19.544Z",
               "EditorCaption": ""

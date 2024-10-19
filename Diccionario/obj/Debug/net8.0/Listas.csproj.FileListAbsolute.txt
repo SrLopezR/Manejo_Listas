@@ -12,3 +12,18 @@ C:\Users\Usuario\Desktop\UAM\MyPE\Listas\obj\Debug\net8.0\refint\Listas.dll
 C:\Users\Usuario\Desktop\UAM\MyPE\Listas\obj\Debug\net8.0\Listas.pdb
 C:\Users\Usuario\Desktop\UAM\MyPE\Listas\obj\Debug\net8.0\Listas.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\UAM\MyPE\Listas\obj\Debug\net8.0\ref\Listas.dll
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\bin\Debug\net8.0\Listas.exe
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\bin\Debug\net8.0\Listas.deps.json
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\bin\Debug\net8.0\Listas.runtimeconfig.json
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\bin\Debug\net8.0\Listas.dll
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\bin\Debug\net8.0\Listas.pdb
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\obj\Debug\net8.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\obj\Debug\net8.0\Listas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\obj\Debug\net8.0\Listas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\obj\Debug\net8.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\obj\Debug\net8.0\Listas.sourcelink.json
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\obj\Debug\net8.0\Listas.dll
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\obj\Debug\net8.0\refint\Listas.dll
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\obj\Debug\net8.0\Listas.pdb
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\obj\Debug\net8.0\Listas.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Manejo de Listas\Manejo_Listas\Diccionario\obj\Debug\net8.0\ref\Listas.dll

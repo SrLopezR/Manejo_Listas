@@ -17,7 +17,7 @@ namespace Listas
             List<Tuple<string, string>> diccionario = new List<Tuple<string, string>>();
             Console.WriteLine("\tIngreso de palabras al diccionario");
             Console.WriteLine("\n───────────────────────────────────────────────────");
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 3; i++)
             {
 
                 Console.Write($"Ingrese palabra #{i+1} en Ingles: ");
@@ -33,7 +33,7 @@ namespace Listas
         public static void Traducir(List<Tuple<string,string>> diccionario)
         {
             Console.Clear();
-            Console.Write("Ingrese la palabra en Ingles a traducir: ");
+            Console.Write("Ingrese la palabra a traducir: ");
             string pal = Console.ReadLine();
             bool e = false;
             foreach (var duo in diccionario)
@@ -51,7 +51,7 @@ namespace Listas
             }
             if (!e)
             {
-                Console.WriteLine($"La palabra {pal} no se ha encontrado en el diccioanrio");
+                Console.WriteLine($"La palabra {pal} no se ha encontrado en el diccionario");
             }
         }
     }
